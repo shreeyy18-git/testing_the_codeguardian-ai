@@ -1,10 +1,12 @@
-a = 10
-b = 20
+def calculate():
+    a = 10
+    b = 20
+    
+    if a < 0:
+        return b
+    else:
+        return a + b
 
-if a<0:
-  return b
-else :
-  return a+b
-
+result = calculate()
+print(result)
 print("code is executed")
-  
