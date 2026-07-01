@@ -9,4 +9,7 @@ def calculate():
 
 result = calculate()
 print(result)
+
 print("code is executed")
+print("now ready to show")
+
