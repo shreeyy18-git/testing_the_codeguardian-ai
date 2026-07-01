@@ -6,6 +6,7 @@ def calculate():
         return b
     else:
         return a + b
+return calculate()
 
 result = calculate()
 print(result)
