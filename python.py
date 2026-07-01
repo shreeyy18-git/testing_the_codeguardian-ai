@@ -8,5 +8,7 @@ def calculate():
         return a + b
     return calculate()
 
+print("code is running")
+
 print(result)
 print("code is executed")
