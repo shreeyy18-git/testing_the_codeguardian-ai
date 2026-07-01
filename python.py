@@ -7,6 +7,8 @@ def calculate():
     else:
         return a + b
 
+return calculate()
+
 result = calculate()
 print(result)
 print("code is executed")
